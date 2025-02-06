@@ -16,7 +16,7 @@ const Navbar = () => {
 
           <nav>
             <ul className="flex space-x-6 gap-1.5 font-semibold">
-              <motion.li
+              {/* <motion.li
                 whileHover={{ scale: 1.1 }}
                 transition={{ type: "spring", stiffness: 300 }}
               >
@@ -28,7 +28,7 @@ const Navbar = () => {
                   <Download></Download>
                   Resume
                 </a>
-              </motion.li>
+              </motion.li> */}
               <motion.li
                 whileHover={{ scale: 1.1 }}
                 transition={{ type: "spring", stiffness: 300 }}

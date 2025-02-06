@@ -25,7 +25,7 @@ const HeroSection = () => {
       >
         <img
           className="absolute z-40 w-full h-full  mb-2 object-cover rounded-full"
-          src="/Images/afzal.jpg"
+          src="https://res-console.cloudinary.com/dpz8bmqix/thumbnails/v1/image/upload/v1738871262/YWZ6YWxfeG5hc25k/drilldown"
           alt="profile pic"
         />
         <div className="absolute z-10 rounded-full bg-gradient-to-r  from-emerald-700 via-zinc-700 to-teal-700 animate-spin -inset-[5px] "></div>
