@@ -40,7 +40,7 @@ const HeroSection = () => {
           className="w-full mt-10 lg:mt-20 bg-gradient-to-r from-zinc-100 to-teal-800 text-transparent bg-clip-text"
         >
           <h1 className=" text-4xl font-extrabold font-poppins">
-            <span className="text-teal-500">Hi</span>, I' Mohd Afzal Ansari
+            <span className="text-teal-500">Hi</span>, I'm Mohd Afzal Ansari
           </h1>
           <h2 className=" text-6xl font-bold">Full-Stack Web Developer</h2>
           <p className="lg:px-20 mt-6 text-center text-2xl font-mono font-bold">
