@@ -1,17 +1,17 @@
 const data = [
   {
-    name: "Chat Application",
-    content:
-      "A MERN chat application enables real-time messaging using MongoDB, Express, React, and Node.js. It features user authentication, one-to-one and group chats. ",
-    img: "https://res.cloudinary.com/dpz8bmqix/image/upload/v1738870952/WhatsApp_Image_2024-12-12_at_22.53.52_18536da1_zpixzf.jpg",
-    url: "",
-  },
-  {
     name: "Advance Authentication",
     content:
       "An advanced authentication app using MERN features JWT-based authentication, role-based access control, and email verification. ",
     img: "https://res.cloudinary.com/dpz8bmqix/image/upload/v1738870976/Screenshot_113_owmuh5.png",
-    url: "",
+    url: "https://auth-advance-1.onrender.com/",
+  },
+  {
+    name: "Chat Application",
+    content:
+      "A MERN chat application enables real-time messaging using MongoDB, Express, React, and Node.js. It features user authentication, one-to-one and group chats. ",
+    img: "https://res.cloudinary.com/dpz8bmqix/image/upload/v1738870952/WhatsApp_Image_2024-12-12_at_22.53.52_18536da1_zpixzf.jpg",
+    url: "https://chat-app-hzeb.onrender.com/",
   },
   {
     name: "Image Gallery",
