@@ -1,6 +1,7 @@
 import { motion, useInView } from "motion/react";
 import { FacebookIcon, Instagram, Linkedin, Github } from "lucide-react";
 import { useRef } from "react";
+
 const HeroSection = () => {
   const ref1 = useRef(null);
   const isInView1 = useInView(ref1, { once: false, amount: 0.2 });
