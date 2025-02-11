@@ -1,5 +1,12 @@
 const data = [
   {
+    name: "File-Share",
+    content:
+      "The file-share app allows users to upload files, which are stored in a database. A unique download link is generated, enabling other users to download the file securely.",
+    img: "https://res.cloudinary.com/dpz8bmqix/image/upload/v1739293206/Screenshot_130_vaz0zr.png",
+    url: "https://file-share-1-ykqs.onrender.com/",
+  },
+  {
     name: "Advance Authentication",
     content:
       "An advanced authentication app using MERN features JWT-based authentication, role-based access control, and email verification. ",
