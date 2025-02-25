@@ -16,19 +16,19 @@ const Navbar = () => {
 
           <nav>
             <ul className="flex space-x-6 gap-1.5 font-semibold">
-              {/* <motion.li
+              <motion.li
                 whileHover={{ scale: 1.1 }}
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <a
-                  href="../assests/Final.pdf"
+                  href="../../public/assets/MohdAfzalAnsari.pdf"
                   download="Mohd_Afzal_Ansari_Resume.pdf"
                   className="hover:text-teal-300 transition download-btn flex gap-1"
                 >
                   <Download></Download>
                   Resume
                 </a>
-              </motion.li> */}
+              </motion.li>
               <motion.li
                 whileHover={{ scale: 1.1 }}
                 transition={{ type: "spring", stiffness: 300 }}
