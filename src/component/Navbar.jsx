@@ -21,7 +21,7 @@ const Navbar = () => {
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <a
-                  href="../../public/assets/MohdAfzalAnsari.pdf"
+                  href="/assets/MohdAfzalAnsari.pdf"
                   download="Mohd_Afzal_Ansari_Resume.pdf"
                   className="hover:text-teal-300 transition download-btn flex gap-1"
                 >
