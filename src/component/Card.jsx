@@ -24,7 +24,7 @@
 import { ExternalLink } from "lucide-react";
 export const Card = ({ name, url, img, content }) => {
   return (
-    <div className="group  relative w-full md:max-w-[350px] border h-[380px] overflow-hidden hover:border-2 border-teal-500 rounded-lg">
+    <div className="group  relative w-full md:max-w-[380px] border h-[380px] overflow-hidden hover:border-2 border-teal-500 rounded-lg">
       <a target="_blank" rel="noopener" href={url}>
         <img
           src={img}
