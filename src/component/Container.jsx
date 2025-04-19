@@ -14,7 +14,7 @@ const Container = () => {
         initial={{ y: 80, opacity: 0 }}
         animate={isInView ? { opacity: 1, y: 0 } : {}}
         transition={{ duration: 1 }}
-        className="  py-10 flex justify-center gap-10 flex-wrap"
+        className="px-10 py-10 flex justify-center gap-10 flex-wrap"
         ref={ref}
       >
         {data.map((item) => (

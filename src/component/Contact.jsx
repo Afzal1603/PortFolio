@@ -2,6 +2,7 @@ import { motion, useInView } from "motion/react";
 import { useRef, useState } from "react";
 import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
+import { div } from "motion/react-client";
 const Contact = () => {
   const ref = useRef(null);
   const isInView = useInView(ref, { once: false, amount: 0.2 });
@@ -41,6 +42,7 @@ const Contact = () => {
       initial={{ x: -50, opacity: 0 }}
       animate={isInView ? { x: 0, opacity: 1 } : {}}
       transition={{ type: "tween", duration: 0.7 }}
+      className="bg-zinc-900/50 p-6 rounded-lg flex flex-col justify-center mb-4"
     >
       <h1 className="max-w-sm text-teal-500 font-bold text-4xl font-mono mx-auto md:mx-0 mb-6">
         Contact me

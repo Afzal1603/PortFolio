@@ -11,7 +11,7 @@ const About = () => {
       initial={{ x: 40, opacity: 0 }}
       animate={isInView ? { x: 0, opacity: 1 } : {}}
       transition={{ type: "tween", duration: 0.7 }}
-      className="mb-6 font-mono mx-auto md:mx-0 text-white"
+      className="mb-4 font-mono mx-auto md:mx-0 text-white bg-zinc-900/50 p-6 rounded-lg flex flex-col justify-center"
     >
       <h1 className="max-w-sm text-teal-500 font-bold text-4xl font-mono mx-auto md:mx-0 mb-6">
         About me
