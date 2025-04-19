@@ -1,5 +1,12 @@
 const data = [
   {
+    name: "Expense-Tracker",
+    content:
+      "A responsive expense tracker web app that lets users add, edit, and delete transactions. It provides real-time expense summaries and category-based insights.",
+    img: "https://res.cloudinary.com/dpz8bmqix/image/upload/v1745104717/Screenshot_183_ztb9jr.png",
+    url: "https://expense-tracker-ten-ruby.vercel.app/",
+  },
+  {
     name: "File-Share",
     content:
       "The file-share app lets users upload files, storing them securely in a database. It generates unique download links for secure file sharing.",
