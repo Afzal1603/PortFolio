@@ -33,8 +33,8 @@ export const Card = ({ name, url, img, content }) => {
         />
       </a>
       <div className="p-3 flex flex-col gap-2">
-        <p className="text-lg font-semibold line-clamp-2">{name}</p>
-        <span className="italic text-sm mb-0.5">{content}</span>
+        <p className="text-lg text-white font-semibold line-clamp-2">{name}</p>
+        <span className="italic text-sm text-teal-400 mb-0.5">{content}</span>
         <a
           rel="noopener"
           target="_blank"
