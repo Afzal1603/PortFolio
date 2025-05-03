@@ -4,17 +4,15 @@ Welcome to my personal developer portfolio repository! This project showcases my
 
 ## 🌐 Live Website
 
-[Visit My Portfolio](https://your-portfolio-link.com)  
-*(Replace with actual URL once deployed)*
+[Visit My Portfolio](https://portfolio-ingenium.netlify.app)  
+
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Framer Motion
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Tools & Platforms**: GitHub, Postman, Vercel/Netlify (for deployment)
+- **Frontend**: JavaScript, React, Tailwind CSS, Framer Motion
+- **Tools & Platforms**: GitHub, Postman, Netlify (for deployment)
 
 ---
 
@@ -32,8 +30,7 @@ Welcome to my personal developer portfolio repository! This project showcases my
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](/images/preview.png)  
-*(Add a screenshot of your portfolio homepage)*
+![Portfolio Screenshot](https://raw.githubusercontent.com/Afzal1603/portfolio/main/public/images/preview.png)  
 
 ---
 
