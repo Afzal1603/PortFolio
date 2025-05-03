@@ -30,7 +30,7 @@ Welcome to my personal developer portfolio repository! This project showcases my
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/Afzal1603/portfolio/tree/main/public/images/preview.png)  
+![Portfolio Screenshot](https://github.com/Afzal1603/PortFolio/blob/master/public/images/preview.png)  
 
 ---
 
